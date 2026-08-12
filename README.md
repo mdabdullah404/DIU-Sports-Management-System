@@ -152,21 +152,6 @@ The available options may vary according to the final implementation of the proj
 
 **Programming Language:** C
 
----
-
-## 👨‍💻 Team Members
-
-| No. | Name          |
-| --- | ------------- |
-| 1   | Team Member 1 |
-| 2   | Team Member 2 |
-| 3   | Team Member 3 |
-| 4   | Team Member 4 |
-| 5   | Team Member 5 |
-
-> Replace the names above with your actual team members.
-
----
 
 ## 🚀 Future Improvements
 
